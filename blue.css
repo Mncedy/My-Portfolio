@@ -1,0 +1,32 @@
+:root {
+    --mainColor: #15202B;
+    --secondaryColor: #192734;
+
+    --borderColor: #164D56;
+
+    --mainText: #fff;
+    --secondaryText: #eeeeee;
+
+    --btnColor: #17a2b8;
+
+    --ff-primary: 'Source Sans Pro', sans-serif;
+    --ff-secondary: 'Source Sans Pro', monospace;
+
+    --fw-reg: 300;
+    --fw-bold: 900;
+    
+    --bs_primary: 10px 10px 5px 0px rgba(0,0,0,0.75),
+    10px 10px 5px 0px rgba(0,0,0,0.75),
+    10px 10px 5px 0px rgba(0,0,0,0.75);
+    --bs-secondary:  -1px 1px 3px -1px rgba(0,0,0,0.75),
+    -1px 1px 3px -1px rgba(0,0,0,0.75),
+    -1px 1px 3px -1px rgba(0,0,0,0.75);
+
+
+    --themeDot: #FFF;
+
+    --prieviewBg: rgba(25, 39, 52, 0.8);
+
+    --summaryShadow: #111921;
+
+}
